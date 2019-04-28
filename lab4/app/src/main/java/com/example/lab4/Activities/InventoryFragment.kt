@@ -17,6 +17,7 @@ import kotlinx.android.synthetic.main.fragment_inventory.*
 
 class InventoryFragment : Fragment() {
 
+    
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
